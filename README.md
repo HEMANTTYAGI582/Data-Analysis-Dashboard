@@ -29,6 +29,13 @@ THe Alok Collcetion wants to create an annual sales report for 2022. So that, th
 
 ![Screenshot_(495)](https://github.com/HEMANTTYAGI582/Data-Analysis-Dashboard/blob/main/Alok%20Colllection%20Annual%20Report%20Dashboard.png)
 
+## Conclusion
+
+The sales analysis of Vrinda Store reveals that Maharashtra, Karnataka, and Uttar Pradesh are the top-performing states. The 30–49 age group contributes nearly 50% of total sales, making it the most valuable customer segment. Most orders are placed through major e-commerce platforms, with over 90% successful deliveries.
+
+- Recommendation
+Target women aged 30–49 through personalized digital marketing campaigns in high-performing states to maximize revenue and customer retention.
+
 
 
 

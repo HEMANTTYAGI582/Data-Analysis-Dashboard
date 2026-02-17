@@ -17,7 +17,7 @@ THe Alok Collcetion wants to create an annual sales report for 2022. So that, th
 - Product Performance: What is the highest selling category?
 
 ## Dashboard Interaction
-<a href="https://github.com/HEMANTTYAGI582/Data-Analysis-Dashboard/blob/main/Alok%20Colllection%20Annual%20Report%20Dashboard.png?raw=true">View Dashboard</a>
+<a href="https://github.com/HEMANTTYAGI582/Data-Analysis-Dashboard/blob/main/Alok%20Colllection%20Annual%20Report%20Dashboard.png">View Dashboard</a>
 
 
 

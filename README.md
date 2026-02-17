@@ -19,5 +19,16 @@ THe Alok Collcetion wants to create an annual sales report for 2022. So that, th
 ## Dashboard Interaction
 <a href="https://github.com/HEMANTTYAGI582/Data-Analysis-Dashboard/blob/main/Alok%20Colllection%20Annual%20Report%20Dashboard.png">View Dashboard</a>
 
+## Process 
+- Verify data for any missing values and anonalies, and out the same.
+- Made sure data is consistent and clean with respect to data type, data formet and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into are one dashboard and apply slicer to make dyanamic.
+
+## Dashboard 
+
+![Screenshot_(495)](https://github.com/HEMANTTYAGI582/Data-Analysis-Dashboard/blob/main/Alok%20Colllection%20Annual%20Report%20Dashboard.png)
+
+
 
 
